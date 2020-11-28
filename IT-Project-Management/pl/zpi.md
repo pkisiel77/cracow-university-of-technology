@@ -1,5 +1,8 @@
 # Spis treści
 
+### [Projekt](files/zpi-co-to-jest-projekt-2019.pdf)
+
+### [Proces rozpoczęcia projektu]()
 
 ### [Proces planowania projektu](files/zpi-proces-planowania-projektu-2019.pdf)
 
