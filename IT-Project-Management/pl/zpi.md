@@ -2,14 +2,14 @@
 
 ### [Projekt](files/zpi-co-to-jest-projekt-2019.pdf)
 
-### [Proces rozpoczęcia projektu]()
+### [Proces rozpoczęcia projektu](files/zpi-proces-rozpoczecia-projektu-2019.pdf)
 
 ### [Proces planowania projektu](files/zpi-proces-planowania-projektu-2019.pdf)
 
 ### [Planowanie zakresu projektu](files/zpi-planowanie-zakresu-projektu-2019.pdf)
 Linki:
 - [WBS](http://drupal.czoba.com/node/117)
-- [WBS]()
+- [WBS - mfiles](https://mfiles.pl/pl/index.php/Struktura_podzia%C5%82u_pracy)
 
 ### [SCRUM](files/2020-Scrum-Guide-Polish.pdf)
 
