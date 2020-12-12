@@ -39,7 +39,7 @@ Linki:
 
 ### [Zarzdzanie projektami RPA]()
 
-### [Zarzdzanie projektami Process Mining]()
+### Zarzdzanie projektami Process Mining
 
 #### [UiPath PM](https://www.uipath.com/rpa/what-is-process-mining)
 
