@@ -41,6 +41,8 @@ Linki:
 
 #### [UiPath docs](https://docs.uipath.com/studio/docs/tutorials)
 
+#### [UiPath dobre praktyki](https://docs.uipath.com/studio/docs/project-organization)
+
 ### Zarzdzanie projektami Process Mining
 
 #### [UiPath PM](https://www.uipath.com/rpa/what-is-process-mining)
