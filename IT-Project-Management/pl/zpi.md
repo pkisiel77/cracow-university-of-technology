@@ -40,3 +40,5 @@ Linki:
 ### [Zarzdzanie projektami RPA]()
 
 ### [Zarzdzanie projektami Process Mining]()
+
+#### [Logger](http://www.processmining.org/_media/presentations/event_logs_the_input_for_process_mining.pdf)
