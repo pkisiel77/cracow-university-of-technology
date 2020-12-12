@@ -24,3 +24,19 @@ Linki:
 ### [Planowanie czasu w projekcie](http://pkisiel.info/docs/zpi-planowanie-czasu-w-projekcie-2019.pdf)
 
 #### [Diagram sieciowy](http://www.zarzadzajonline.pl/publikacje/art6,zarzadzanie-projektami.html)
+
+### [Planowanie jakosci w projekcie](http://pkisiel.info/docs/zpi-planowanie-jakosci-w-projekcie-2019.pdf)
+
+### [Planowanie zespolu projektowego](http://pkisiel.info/docs/zpi-planowanie-zespolu-projektowego-2019.pdf)
+
+### [Planowanie komunikacji w projekcie]()
+
+### [Planowanie ryzyka w projekcie]()
+
+### [Planowanie zarzadzania zaangazowaniem interesariuszy projektu]()
+
+### [Proces zamkniecia projektu]()
+
+### [Zarzdzanie projektami RPA]()
+
+### [Zarzdzanie projektami Process Mining]()
