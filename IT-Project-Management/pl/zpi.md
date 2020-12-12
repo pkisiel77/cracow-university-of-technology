@@ -41,4 +41,6 @@ Linki:
 
 ### [Zarzdzanie projektami Process Mining]()
 
+#### [Przykład 1](https://fluxicon.com/blog/2017/01/how-to-perform-a-bottleneck-analysis-with-process-mining/)
+
 #### [Logger](http://www.processmining.org/_media/presentations/event_logs_the_input_for_process_mining.pdf)
