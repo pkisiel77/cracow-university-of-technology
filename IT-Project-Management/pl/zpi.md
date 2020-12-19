@@ -50,3 +50,12 @@ Linki:
 #### [Przykład 1](https://fluxicon.com/blog/2017/01/how-to-perform-a-bottleneck-analysis-with-process-mining/)
 
 #### [Logger](http://www.processmining.org/_media/presentations/event_logs_the_input_for_process_mining.pdf)
+
+### Cyberpunk 2077
+
+[LoneRanger 1/3](https://www.wykop.pl/artykul/5857493/kalendarium-cyberpunk-2077-1-3/)
+[LoneRanger 2/3](https://www.wykop.pl/artykul/5857531/kalendarium-cyberpunk-2077-2-3/)
+[LoneRanger 3/3](https://www.wykop.pl/artykul/5857535/kalendarium-cyberpunk-2077-3-3/)
+
+
+
