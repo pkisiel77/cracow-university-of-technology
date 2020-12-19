@@ -53,9 +53,9 @@ Linki:
 
 ### Cyberpunk 2077
 
-[LoneRanger 1/3](https://www.wykop.pl/artykul/5857493/kalendarium-cyberpunk-2077-1-3/)
-[LoneRanger 2/3](https://www.wykop.pl/artykul/5857531/kalendarium-cyberpunk-2077-2-3/)
-[LoneRanger 3/3](https://www.wykop.pl/artykul/5857535/kalendarium-cyberpunk-2077-3-3/)
+- [LoneRanger 1/3](https://www.wykop.pl/artykul/5857493/kalendarium-cyberpunk-2077-1-3/)
+- [LoneRanger 2/3](https://www.wykop.pl/artykul/5857531/kalendarium-cyberpunk-2077-2-3/)
+- [LoneRanger 3/3](https://www.wykop.pl/artykul/5857535/kalendarium-cyberpunk-2077-3-3/)
 
 
 
