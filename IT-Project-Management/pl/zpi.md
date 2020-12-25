@@ -35,9 +35,9 @@ Linki:
 
 ### [Planowanie zarzadzania zaangazowaniem interesariuszy projektu]()
 
-### [Proces zamkniecia projektu]()
+### Proces zamkniecia projektu (v1.1)
 
-#### Cele zamkniecia projektu
+#### Cele zamkniecia projekt
 Rozliczenie się z klientem
 - Przekazanie rezultatów
 - Formalne potwierdzenie zakończenia projektu
