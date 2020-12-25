@@ -37,6 +37,38 @@ Linki:
 
 ### [Proces zamkniecia projektu]()
 
+#### Cele zamkniecia projektu
+Rozliczenie się z klientem
+- Przekazanie rezultatów
+- Formalne potwierdzenie zakończenia projektu
+
+Zamknięcie współpracy z zespołem
+
+Zakończenie pracy nad projektem lub fazą
+
+Rozliczenie się z dostawcami 
+
+Rozliczenie się ze sponsorem
+
+
+#### Zamykanie projektu
+- Ewaluacja projektu
+- Ewaluacja procesu
+- Archiwizacja dokumentacji projektowej
+- Zespół:
+ - Podsumowanie
+ - Przypisanie do innych projektów
+ - Odpoczynek
+
+#### Ewaluacja procesu
+- Ocena procesów i procedur
+- Ocena struktury zespołu projektowego
+- Ocena planu komunikacji i zarządzania konfliktami
+- Ocena wykorzystania narzędzi
+- Ocena efektywności realizacji projektu
+- Lista dobrych doświadczeń i praktyk
+- Lista doświadczeń i praktyk zagrażających projektowi
+
 ### Zarzdzanie projektami RPA
 
 #### [UiPath docs](https://docs.uipath.com/studio/docs/tutorials)
