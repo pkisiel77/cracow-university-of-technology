@@ -43,13 +43,18 @@ Rozliczenie się z klientem
 - Formalne potwierdzenie zakończenia projektu
 
 Zamknięcie współpracy z zespołem
+- Zebranie obserwacji i doświadczeń
 
 Zakończenie pracy nad projektem lub fazą
+- Weryfikacja kompletności prac
+- Zebranie dokumentacji formalnej
 
-Rozliczenie się z dostawcami 
+Rozliczenie się z dostawcami
+- Rozliczenie finansowe i formalne
 
 Rozliczenie się ze sponsorem
-
+- Rozliczenie budżetu projektu
+- Weryfikacja osiągnięcia celu projektu
 
 #### Zamykanie projektu
 - Ewaluacja projektu
