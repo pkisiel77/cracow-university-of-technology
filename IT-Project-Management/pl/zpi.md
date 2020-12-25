@@ -58,4 +58,7 @@ Linki:
 - [LoneRanger 3/3](https://www.wykop.pl/artykul/5857535/kalendarium-cyberpunk-2077-3-3/)
 
 
+### Links
+[1](https://pl.pinterest.com/pin/153966881002024221/)
+[2](https://pl.pinterest.com/pin/787355947331175599/)
 
