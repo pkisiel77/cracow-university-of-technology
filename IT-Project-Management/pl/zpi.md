@@ -99,3 +99,6 @@ Rozliczenie się ze sponsorem
 [1](https://pl.pinterest.com/pin/153966881002024221/)
 [2](https://pl.pinterest.com/pin/787355947331175599/)
 
+### [Startup CEO Salaries](https://blossomstreetventures.medium.com/startup-ceo-salaries-5bebe0f89e14)
+
+
