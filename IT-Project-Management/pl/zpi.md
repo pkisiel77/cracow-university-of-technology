@@ -94,6 +94,8 @@ Rozliczenie się ze sponsorem
 - [LoneRanger 2/3](https://www.wykop.pl/artykul/5857531/kalendarium-cyberpunk-2077-2-3/)
 - [LoneRanger 3/3](https://www.wykop.pl/artykul/5857535/kalendarium-cyberpunk-2077-3-3/)
 
+- [RP cyberpunk-jak-jazda-pociagiem](https://cyfrowa.rp.pl/gry-i-esport/57634-pracownicy-cd-projekt-cyberpunk-jak-jazda-pociagiem-bez-torow?utm_source=rp&utm_medium=teaser_redirect)
+
 
 ### Links
 [1](https://pl.pinterest.com/pin/153966881002024221/)
