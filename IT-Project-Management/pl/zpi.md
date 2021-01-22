@@ -96,6 +96,9 @@ Rozliczenie się ze sponsorem
 
 - [RP cyberpunk-jak-jazda-pociagiem](https://cyfrowa.rp.pl/gry-i-esport/57634-pracownicy-cd-projekt-cyberpunk-jak-jazda-pociagiem-bez-torow?utm_source=rp&utm_medium=teaser_redirect)
 
+###  [Albicla problemy](https://antyweb.pl/albicla-problemy-polski-serwis/)
+
+
 
 ### Links
 [1](https://pl.pinterest.com/pin/153966881002024221/)
