@@ -106,4 +106,6 @@ Rozliczenie się ze sponsorem
 
 ### [Startup CEO Salaries](https://blossomstreetventures.medium.com/startup-ceo-salaries-5bebe0f89e14)
 
+### [DevOps vs SRE ](https://www.youtube.com/watch?v=U918uxNKMRM&ab_channel=GoogleCloudPlatform)
+
 
