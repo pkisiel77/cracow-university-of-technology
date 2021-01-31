@@ -98,6 +98,8 @@ Rozliczenie się ze sponsorem
 
 ###  [Albicla problemy](https://antyweb.pl/albicla-problemy-polski-serwis/)
 
+### [Lidl & SAP](https://it-consulting.pl/autoinstalator/wordpress/2018/08/11/porazka-za-2-mln-zl-lidl-wycofuje-sie-z-wdrozenia-sap/#.YBZsZmndiNw)
+
 
 
 ### Links
