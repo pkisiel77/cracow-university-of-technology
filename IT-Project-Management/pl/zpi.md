@@ -110,4 +110,7 @@ Rozliczenie się ze sponsorem
 
 ### [DevOps vs SRE ](https://www.youtube.com/watch?v=U918uxNKMRM&ab_channel=GoogleCloudPlatform)
 
+### [my-advice-after-interviewing-100-software-engineers](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)
+
+
 
