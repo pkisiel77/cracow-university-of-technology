@@ -112,5 +112,7 @@ Rozliczenie się ze sponsorem
 
 ### [my-advice-after-interviewing-100-software-engineers](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)
 
+### [4-lessons-from-my-4-years-at-facebook-instagram-as-a-software-engineer-](https://medium.com/swlh/4-lessons-from-my-4-years-at-facebook-instagram-as-a-software-engineer-cc0b7c18678)
+
 
 
