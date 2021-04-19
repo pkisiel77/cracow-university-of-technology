@@ -114,5 +114,7 @@ Rozliczenie się ze sponsorem
 
 ### [4-lessons-from-my-4-years-at-facebook-instagram-as-a-software-engineer-](https://medium.com/swlh/4-lessons-from-my-4-years-at-facebook-instagram-as-a-software-engineer-cc0b7c18678)
 
+### [A CTO’s guide to a modern tech stack](https://blog.runx.dev/a-ctos-guide-to-modern-tech-stack-a497d1b56de0)
+
 
 
