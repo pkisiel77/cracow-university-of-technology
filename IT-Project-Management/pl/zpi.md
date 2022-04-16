@@ -103,6 +103,9 @@ Rozliczenie się ze sponsorem
 
 
 ### Links
+
+https://www.atlassian.com/agile/project-management/epics-stories-themes?utm_source=newsletter-email&utm_medium=email&utm_campaign=jira-insiders-newsletter_january-2022_EML-11762&jobid=105399809&subid=1537062919
+
 [1](https://pl.pinterest.com/pin/153966881002024221/)
 [2](https://pl.pinterest.com/pin/787355947331175599/)
 
